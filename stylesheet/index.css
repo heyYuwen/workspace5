@@ -1,0 +1,40 @@
+.menu li a{
+	font-weight: 100;
+}
+.case_img{
+	width: 55px;
+	height: 55px;
+	background:#18BA60;
+	transform: rotate(45deg);
+	position: relative;
+}
+.in_img{
+	position: absolute;
+	left: 95px;
+	top: 10px;
+	
+}
+.case_img:hover{
+	background: #191919
+}
+.featured-post img{
+	width: 390px;
+	height: 200px;
+}
+.imagebox-image img{
+	width: 370px;
+	height: 220px;
+}
+body{
+	font-family: "微软雅黑";
+}
+.title-post{
+	line-height: 30px;
+}
+.text h4{
+	margin-top: 10px;
+}
+.widget-text img{
+	width: 150px;
+	height: 150px;
+}

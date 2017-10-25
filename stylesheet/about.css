@@ -1,0 +1,17 @@
+body{
+	font-family: "微软雅黑";
+}
+a,p,h1,h3,h2,h4,h5,h6,span{
+	font-family: "微软雅黑";
+}
+.flat-imagebox-image img{
+	width: 370px;
+	height: 170px;
+}
+.featured-post img{
+	 width:  760px;
+	 height: 350px;
+}
+.blog-pagination{
+	padding-left: 180px;
+}
